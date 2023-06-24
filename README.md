@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m Mahardika Bayu the author of @Martarion-Code github
+- 👋 Hi, I’m Mahardika Bayu, the author of @Martarion-Code github
 - 👀 I’m interested in Programming and Art
 - 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on Github
