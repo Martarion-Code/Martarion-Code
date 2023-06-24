@@ -1,4 +1,4 @@
-### Hello world!
+### Hello world! 🌏
 [![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03)
 
 <!--
