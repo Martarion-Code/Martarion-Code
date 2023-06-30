@@ -1,5 +1,5 @@
 ### Hello world! 🌏
-[![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03)
+[![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03)  ![](https://komarev.com/ghpvc/?username=martarion-code)
 
 <!--
 **Martarion-Code/Martarion-Code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
