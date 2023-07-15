@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=FFFFFFFF&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=F7F7F7FF&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-dark-mode-only)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=000000&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-light-mode-only)
 
 
