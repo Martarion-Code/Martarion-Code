@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=000000&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=fffff&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-dark-mode-only)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=000000&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-light-mode-only)
+
 
 [![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03)  ![](https://komarev.com/ghpvc/?username=martarion-code)
 
