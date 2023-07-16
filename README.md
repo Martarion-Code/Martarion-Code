@@ -27,10 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on Github
 
-- 📫 How to reach me :
 
-<div id="badges" align="left">
-  <a href="">
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/mahardika-bayu-464533228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
   <a href="https://www.instagram.com/mahardikabayu_desu/">
@@ -47,12 +46,25 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Martarion-Code&theme=radical&currStreakNum=41B883&currStreakLabel=41B883)](https://git.io/streak-stats)
 
-![Martarion-Code's Stats](https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true)
+![Martarion-Code's Stats](https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true)  
 
 
+ <div align="center"> 
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph" align="center">
+     <img alt="strak stat" src="https://streak-stats.demolab.com?user=Martarion-Code&theme=radical&currStreakNum=41B883&currStreakLabel=41B883">
+ </a>
+
+</div>
+
+<br/>
+ <div align="center"> 
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img alt="SuriyaDisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true" height="192px">
+ </a>
+</div>
 <!---
 Mahardika-Code/Mahardika-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
