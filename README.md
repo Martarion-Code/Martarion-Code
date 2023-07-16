@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on Github
 
+<br/>
+<br/>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahardika-bayu-464533228/">
