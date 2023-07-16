@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<div id="badges" align="center">
+<div id="badges" align="left">
   <a href="https://www.linkedin.com/in/mahardika-bayu-464533228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
@@ -54,15 +54,15 @@ Here are some ideas to get you started:
 <!---               ![Martarion-Code's Stats](https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true)  -->
 
 
- <div align="center"> 
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph" align="center">
+ <div align="left"> 
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph" align="left">
      <img alt="strak stat" src="https://streak-stats.demolab.com?user=Martarion-Code&theme=radical&currStreakNum=41B883&currStreakLabel=41B883">
  </a>
 
 </div>
 
 <br/>
- <div align="center"> 
+ <div align="left"> 
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
      <img alt="SuriyaDisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true" height="192px">
