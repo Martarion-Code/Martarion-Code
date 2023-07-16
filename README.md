@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 </div>
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Martarion-Code&theme=radical&currStreakNum=41B883&currStreakLabel=41B883)](https://git.io/streak-stats)
+<!---               --> [![GitHub Streak](https://streak-stats.demolab.com?user=Martarion-Code&theme=radical&currStreakNum=41B883&currStreakLabel=41B883)](https://git.io/streak-stats) 
 
-![Martarion-Code's Stats](https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true)  
+<!---               -->![Martarion-Code's Stats](https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true)  
 
 
  <div align="center"> 
