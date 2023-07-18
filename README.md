@@ -2,9 +2,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=5003&pause=1000&color=000000&width=436&height=44&lines=Hello+World!)](https://git.io/typing-svg#gh-light-mode-only)
 
 
-[![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03) ![status](https://badge.stateful.com/Martarion-Code/status.svg)  ![status](https://badge.stateful.com/Martarion-Code/dnd.svg)
+[![wakatime](https://wakatime.com/badge/user/d347e20a-b09c-4a84-93bf-395ac1095d03.svg)](https://wakatime.com/@d347e20a-b09c-4a84-93bf-395ac1095d03)
 
 
+<h3> Today : </h3>
+
+![status](https://badge.stateful.com/Martarion-Code/status.svg)  ![status](https://badge.stateful.com/Martarion-Code/dnd.svg)
 <!--![](https://komarev.com/ghpvc/?username=martarion-code) -->
 
 
@@ -24,11 +27,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3> About Me : </h3>
 
 - 👋 Hi, I’m Mahardika Bayu, the author of @Martarion-Code github
 - 👀 I’m interested in Programming and Art
 - 🌱 I’m currently learning Frontend Web development
 - 💞️ I’m looking to collaborate on Github
+
+
+
 
 <br/>
 <br/>
