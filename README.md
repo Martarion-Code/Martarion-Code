@@ -77,6 +77,10 @@ Here are some ideas to get you started:
      <img alt="SuriyaDisha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Martarion-Code&theme=radical&show_icons=true&hide_border=false&count_private=true" height="192px">
  </a>
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <!---
 Mahardika-Code/Mahardika-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
