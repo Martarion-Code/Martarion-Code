@@ -20,3 +20,4 @@ jobs:
           SHOW_EDITORS: False
           IGNORED_REPOS: "belajargit, Sircle-Backend"
           SHOW_PROFILE_VIEWS: False
+          SHOW_TOTAL_CODE_TIME: False
