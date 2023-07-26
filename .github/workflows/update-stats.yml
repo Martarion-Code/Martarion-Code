@@ -21,3 +21,6 @@ jobs:
           IGNORED_REPOS: "belajargit, Sircle-Backend"
           SHOW_PROFILE_VIEWS: False
           SHOW_TOTAL_CODE_TIME: False
+          SHOW_LOC_CHART: False
+          SHOW_UPDATED_DATE: False
+          SYMBOL_VERSION: 3
