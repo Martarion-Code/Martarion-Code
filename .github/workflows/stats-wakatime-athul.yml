@@ -21,7 +21,7 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: athul_waka
-          BLOCKS: ⬛⬜
+          BLOCKS: ⬜⬛
           CODE_LANG: all_time 
           TIME_RANGE: all_time
           LANG_COUNT: 10
