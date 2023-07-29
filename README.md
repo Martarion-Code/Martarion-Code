@@ -148,6 +148,6 @@ PHP                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Mahardika-Code/Mahardika-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!--START_SECTION:waka-athul-->
+<!--START_SECTION:athul_waka-->
 
-<!--END_SECTION:waka-athul-->
+<!--END_SECTION:athul_waka-->
