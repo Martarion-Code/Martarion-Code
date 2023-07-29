@@ -20,7 +20,7 @@ jobs:
           REPOSITORY: Martarion-Code/Martarion-Code
           # content
           SHOW_TITLE: true
-          SECTION_NAME: waka-athul
+          SECTION_NAME: athul_waka
           BLOCKS: ⬛⬜
           CODE_LANG: all_time 
           TIME_RANGE: all_time
