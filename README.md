@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:anmol-->
 
 ```all_time
 From: 02 June 2023 - To: 28 July 2023
@@ -97,7 +97,7 @@ HTML          39 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Other         36 mins         ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.43 %
 ```
 
-<!--END_SECTION:waka-->
+<!--END_SECTION:anmol-->
 <!---
 Mahardika-Code/Mahardika-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
