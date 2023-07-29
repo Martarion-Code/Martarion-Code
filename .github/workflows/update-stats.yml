@@ -24,3 +24,4 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_UPDATED_DATE: False
           SYMBOL_VERSION: 3
+          SECTION_NAME: anmol
