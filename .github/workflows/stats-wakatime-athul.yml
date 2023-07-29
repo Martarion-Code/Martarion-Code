@@ -23,7 +23,7 @@ jobs:
           SECTION_NAME: waka-athul
           BLOCKS: ⬛⬜
           CODE_LANG: all_time 
-          TIME_RANGE: true
+          TIME_RANGE: all_time
           LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
