@@ -148,7 +148,7 @@ PHP                      1 repo              ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 Mahardika-Code/Mahardika-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-**Total Hours Of Code Since I Sign In to Wakatime** 
+**Total Hours Of Coding Since I Sign In to Wakatime** 
 <!--START_SECTION:athul-->
 
 ```all_time
