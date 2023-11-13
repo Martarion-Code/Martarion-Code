@@ -152,7 +152,7 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:athul-->
 
 ```all_time
-From: 02 June 2023 - To: 11 November 2023
+From: 02 June 2023 - To: 12 November 2023
 
 Total Time: 600 hrs 6 mins
 
