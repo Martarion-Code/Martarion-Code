@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 
 > 📦 15.9 kB Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2023
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
